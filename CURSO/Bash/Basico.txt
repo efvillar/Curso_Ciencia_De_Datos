@@ -24,3 +24,10 @@ tree:  muestra los directorios y su contenido en forma de arbol
 rmdir:  borar un directorio vacio
 
 rm -rf mydir: borra el directorio mydir y todo su contenido
+
+
+USO INTERACTIVO DEL TERMINAL
+echo: imprime cadenas de texto sin delimitador o delimitadas por comillas
+ej: echo hola    mundo  
+imprime  hola mundo eliminando los espacios que sobran
+si se hace conmillas respeta los espacios
