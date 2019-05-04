@@ -13,3 +13,9 @@ rmdir: borra directorios vacios
 nano prog.sh: abre un editor llamado nano y crea un archivo llamado prog.sh que es un programa bash
 se ejecuta así: bash prog.sh
 
+touch: crea un archivo
+
+cp:  cp archivo1  path/nuevo_nombre_archivo
+
+mv:  se usa para mover archivos y también para renombrar
+
