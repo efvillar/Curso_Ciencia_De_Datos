@@ -31,3 +31,6 @@ echo: imprime cadenas de texto sin delimitador o delimitadas por comillas
 ej: echo hola    mundo  
 imprime  hola mundo eliminando los espacios que sobran
 si se hace conmillas respeta los espacios
+
+el uso de '\' es para escape y se usa con la opción -e así:
+echo -e "linea 1\nlinea 2\nlinea 3"  donde \n indica saldo de linea
