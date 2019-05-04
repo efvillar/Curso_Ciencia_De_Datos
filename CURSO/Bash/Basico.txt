@@ -19,3 +19,8 @@ cp:  cp archivo1  path/nuevo_nombre_archivo
 
 mv:  se usa para mover archivos y también para renombrar
 
+tree:  muestra los directorios y su contenido en forma de arbol
+
+rmdir:  borar un directorio vacio
+
+rm -rf mydir: borra el directorio mydir y todo su contenido
