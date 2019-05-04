@@ -1,0 +1,5 @@
+jupyter lab --ip=0.0.0.0  #para corre jupyter lab con vagrant en entorno creado
+
+NOCIONES BASICAS BASH
+
+pwd: muestra el directorio actual
