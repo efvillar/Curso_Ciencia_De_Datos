@@ -25,6 +25,8 @@ rmdir:  borar un directorio vacio
 
 rm -rf mydir: borra el directorio mydir y todo su contenido
 
+cat: muestra el contenido de un archivo
+
 
 USO INTERACTIVO DEL TERMINAL
 echo: imprime cadenas de texto sin delimitador o delimitadas por comillas
@@ -34,3 +36,6 @@ si se hace conmillas respeta los espacios
 
 el uso de '\' es para escape y se usa con la opción -e así:
 echo -e "linea 1\nlinea 2\nlinea 3"  donde \n indica saldo de linea
+
+Impresión con PRINTF
+
